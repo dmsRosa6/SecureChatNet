@@ -1,8 +1,8 @@
-# A Secure Multicast Protocol for a Peer-Group Messaging System (SMP4PGMS)
+# A Secure Multicast Protocol for a Peer-Group Messaging System
 
 ## Project Overview
 
-The Secure Multicast Protocol for a Peer-Group Messaging System (SMP4PGMS) is designed to facilitate secure communication within a peer-to-peer messaging system using UDP and IP Multicasting. The protocol addresses essential security concerns such as confidentiality, integrity, authentication, and protection against replay attacks, making it suitable for secure group communication.
+The Secure Multicast Protocol for a Peer-Group Messaging System is designed to facilitate secure communication within a peer-to-peer messaging system using UDP and IP Multicasting. The protocol addresses essential security concerns such as confidentiality, integrity, authentication, and protection against replay attacks, making it suitable for secure group communication.
 
 ## Objectives
 
@@ -78,5 +78,5 @@ Future enhancements may focus on improving peer authentication mechanisms and ad
 
 - **Bouncy Castle**: The implementation relies on the Bouncy Castle library for cryptographic operations. Ensure you have the library included in your project to handle encryption, decryption, and digital signatures.
 
-# SecureChatNet
-# SecureChatNet
+# Disclaimer
+This document serves solely as a personal reference for educational purposes :)
